@@ -1,0 +1,7 @@
+{
+  "name": "VoxBiz: AI Voice Receptionist",
+  "description": "A proof-of-concept AI voice agent that handles business calls, answers FAQs, and books appointments using the Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
